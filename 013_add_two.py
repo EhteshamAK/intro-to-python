@@ -12,7 +12,10 @@ from lib.helpers import check_that_these_are_equal
 
 # YOUR FUNCTION GOES BELOW THIS LINE
 
+def two(n):
+  return n + 1
 
+print(two(3))
 
 # YOUR FUNCTION GOES ABOVE THIS LINE
 
